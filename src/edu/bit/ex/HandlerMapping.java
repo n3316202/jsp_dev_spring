@@ -8,7 +8,7 @@ public class HandlerMapping {
 	
 	public HandlerMapping() {
 		mappings = new HashMap<String,Controller>();
-		mappings.put("/",new HelloController());
+		/*mappings.put("/",new HelloController());*/
 		mappings.put("/hello",new HelloController());
 		
 		//Board 관련 
