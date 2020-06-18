@@ -15,7 +15,7 @@ cmake-build-debug/
 target/
 .idea
 classes/
-META-INF/
+#META-INF/
   
 # OS Files #
 .DS_Store
@@ -23,7 +23,7 @@ META-INF/
 *.class
   
 # Package Files #
-*.jar
+#*.jar
 *.war
 *.ear
 *.db
