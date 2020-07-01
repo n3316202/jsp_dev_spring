@@ -82,9 +82,6 @@ public class DispacherServlet extends HttpServlet {
 		} catch (ServletException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
-		}
-		
-		
+		}		
 	}
-
 }
